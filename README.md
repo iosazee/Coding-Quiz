@@ -12,7 +12,7 @@ N/A
 
 ## Usage
 
-Check out the deployed application on 
+Check out the deployed application on https://iosazee.github.io/Coding-Quiz/
 
 ## Credits
 
